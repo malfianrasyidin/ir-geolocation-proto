@@ -1,0 +1,11 @@
+{
+  "name": "ir-geolocation-proto",
+  "version": "1.0.0",
+  "description": "ir-geolocation-proto",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "@ir/ip-geolocation-lib": "^1.0.7",
+    "dns": "^0.2.2"
+  }
+}
